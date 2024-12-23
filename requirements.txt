@@ -1,0 +1,7 @@
+python-telegram-bot
+flask
+aiohttp
+beautifulsoup4
+requests
+nest-asyncio
+gevent
