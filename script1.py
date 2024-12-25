@@ -20,7 +20,7 @@ USERNAME, MESSAGE = range(2)
 
 # Function to simulate generating a link
 def generate_telegram_link(username, message=""):
-    base_url = "https://telegram.koyeb.app/"  # Replace with the actual URL of the service
+    base_url = "https://telegram-io.koyeb.app/"  # Replace with the actual URL of the service
     params = {
         "username": username,
         "message": message
